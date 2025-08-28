@@ -1,3 +1,6 @@
 # Traffic-Delay-Severity-Predictor
 
-This project explores machine learning techniques to classify the severity of traffic delays caused by roadway accidents based on features available at the time of the incident. The analysis is based on the US Accidents dataset containing over 7.7 million records and uses 4 classification methods: Logistic regression (baseline), a random forest classifier,  Histogram-Based GBM HGBoost) and a Neural Network using a Multilayer Perceptron (MLP) structure. 
+This project explores machine learning techniques to classify the severity of traffic delays caused by roadway accidents using features available at the time of the incident. The analysis is based on the US Accidents dataset, which contains over 7.7 million records, and applies four classification methods: logistic regression (baseline), random forest, histogram-based gradient boosting (HGBoost), and a neural network with a multilayer perceptron (MLP) structure. 
+
+📄 [Read the full paper (PDF)](./Paper.pdf)  
+📘 [Open the Jupyter Notebook](./us_accidents_final_version.ipynb)
